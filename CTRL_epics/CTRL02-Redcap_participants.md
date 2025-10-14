@@ -1,4 +1,4 @@
-# CTRL Epic 02: Import Participat List from REDCap
+# CTRL Epic 02: Import Participant List from REDCap
 
 ## Related GUARDIANS Task
 
