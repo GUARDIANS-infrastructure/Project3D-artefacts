@@ -8,7 +8,7 @@
 
 As a study admin, I want survey question to be assigned with DUO codes so that data release logic can be automated in ELSA.
 
-## Context / Requirements
+## Context
 
 Options we could consider:
 
