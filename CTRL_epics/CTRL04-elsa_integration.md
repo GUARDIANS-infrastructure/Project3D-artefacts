@@ -1,4 +1,4 @@
-# CTRL Epic 04: CTRL / ELSA integration automated configuration
+# CTRL Epic 04: API endpoints for ELSA integration
 
 ## Related GUARDIANS Task
 
@@ -6,9 +6,11 @@
 
 ## User Story
 
-As a sys admin, I want to deploy CTRL and ELSA using infrastructure as a code, so that necessary accounts, API keys and URL endpoints required for intagration are automatically configured.
+As an Elsa admin, I want to check participant consent in CTRL through API calls, so that I can update data release and files permissions in accordance with consented data use statements.
 
 ## Context
+
+
 
 ## Acceptance Criteria
 
