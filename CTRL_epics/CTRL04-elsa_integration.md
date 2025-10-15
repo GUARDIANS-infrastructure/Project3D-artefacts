@@ -10,8 +10,6 @@ As an Elsa admin, I want to check participant consent in CTRL through API calls,
 
 ## Context
 
-
-
 ## Acceptance Criteria
 
 - When CTRL and Elsa are deployed together, via infrastructure as code, a CTRL API key is automatically generated

@@ -20,3 +20,25 @@ Under this national grant, Garvan is leading a flashship project that is compose
 The goal of the flagship project is to deploy the different tools on Garvan infrastructure and build interaction between them. In the national context, the approach is modular and each institution can pick and mix the software that align with their needs.
 
 ![Project 3D modules](./docs/Project3D_modules.png)
+
+## Epics
+
+### CTRL
+
+- [CTRL Epic 01: Assign DUO Codes to Survey Questions](./CTRL_epics/CTRL01-duo_codes.md)
+- [CTRL Epic 02: Import Participant List from REDCap](./CTRL_epics/CTRL02-redcap_participants.md)
+- [CTRL Epic 03: Multiple Studies](./CTRL_epics/CTRL03-multi_study.md)
+- [CTRL Epic 04: API endpoints for ELSA integration](./CTRL_epics/CTRL04-elsa_integration.md)
+- [CTRL Epic 05: CTRL / ELSA integration automated configuration](./CTRL_epics/CTRL05-ctrl_elsa_config.md)
+
+### REMS
+
+[TBC]
+
+### Elsa
+
+- [ELSA Epic 01: ELSA / REMS integration automated configuration](/ELSA_epics/ELSA01-rems_integration.md)
+
+### RDDP
+
+- [RDDP Epic 01: Cohort-level beacon on RDDP datasets](/RDDP_epics/RDDP01-cohort_beacon.md)
