@@ -28,9 +28,9 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 - [CTRL Epic 01: Assign DUO Codes to Survey Questions](./CTRL_epics/CTRL01-duo_codes.md)
 - [CTRL Epic 02: Import Participant List from REDCap](./CTRL_epics/CTRL02-redcap_participants.md)
 - [CTRL Epic 03: Multiple Studies](./CTRL_epics/CTRL03-multi_study.md)
-- [CTRL Epic 04: API endpoints for ELSA integration](./CTRL_epics/CTRL04-elsa_integration.md)
-- [CTRL Epic 05: CTRL / ELSA integration automated configuration](./CTRL_epics/CTRL05-ctrl_elsa_config.md)
-- [CTRL Epic 06: Study Admin permissions](./CTRL_epics/CTRL06-study_admin.md)
+- [CTRL Epic 04: API Endpoints for ELSA Integration](./CTRL_epics/CTRL04-elsa_integration.md)
+- [CTRL Epic 05: CTRL / ELSA Integration Automated Configuration](./CTRL_epics/CTRL05-ctrl_elsa_config.md)
+- [CTRL Epic 06: Study Admin Role](./CTRL_epics/CTRL06-study_admin.md)
 
 ### REMS
 

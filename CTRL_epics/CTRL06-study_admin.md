@@ -1,4 +1,4 @@
-# CTRL Epic 06: Study Admin permissions
+# CTRL Epic 06: Study Admin Role
 
 ## Related GUARDIANS Task
 
