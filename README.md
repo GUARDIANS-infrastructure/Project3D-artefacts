@@ -31,7 +31,8 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 - [CTRL Epic 04: API Endpoints for ELSA Integration](./CTRL_epics/CTRL04-elsa_integration.md)
 - [CTRL Epic 05: CTRL / ELSA Integration Automated Configuration](./CTRL_epics/CTRL05-ctrl_elsa_config.md)
 - [CTRL Epic 06: Study Admin Role](./CTRL_epics/CTRL06-study_admin.md)
-- [CTRL Epic 07: AAI solution integration for CTRL admin (AAF members)](./CTRL_epics/CTRL07-aai_integration_members.md)
+- [CTRL Epic 07: AAI solution integration for CTRL admin (AAF member)](./CTRL_epics/CTRL07-aai_integration_member.md)
+- [CTRL Epic 08: AAI solution integration for CTRL admin (non-AAF member)](./CTRL_epics/CTRL07-aai_integration_non_member.md)
 
 ### REMS
 
