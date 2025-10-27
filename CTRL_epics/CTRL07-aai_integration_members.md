@@ -11,6 +11,7 @@
 ## Context
 
 - Study admin is invited to CTRL admin portal by the sys admin or another tudy admin.
+- As CTRL admin portal contain Personally Identifiable Information, security best practice (defined by NIST) and Garvan IT policies required strong Multi Factor Authentication (MFA) for login.
 
 ## Acceptance Criteria
 
