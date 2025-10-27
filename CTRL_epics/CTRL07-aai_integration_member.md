@@ -1,4 +1,4 @@
-# CTRL Epic 07: AAI solution integration for CTRL admin (AAF members)
+# CTRL Epic 07: AAI solution integration for CTRL admin (AAF member)
 
 ## Related GUARDIANS Task
 
@@ -10,8 +10,8 @@
 
 ## Context
 
-- Study admin is invited to CTRL admin portal by the sys admin or another tudy admin.
-- As CTRL admin portal contain Personally Identifiable Information, security best practice (defined by NIST) and Garvan IT policies required strong Multi Factor Authentication (MFA) for login.
+- Study admin is invited to CTRL admin portal by the sys admin or another study admin.
+- As CTRL admin portal contains Personally Identifiable Information (PII), security best practices (defined by NIST) and Garvan IT policies required strong Multi Factor Authentication (MFA) for login.
 
 ## Acceptance Criteria
 
