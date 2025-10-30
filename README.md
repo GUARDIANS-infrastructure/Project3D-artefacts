@@ -36,7 +36,7 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 ### REMS
 
-[TBC]
+- [REMS Epic 01: AAI solution integration](/REMS_epics/REMS01-aai_integration.md)
 
 ### Elsa
 
