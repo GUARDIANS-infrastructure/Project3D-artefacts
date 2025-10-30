@@ -24,4 +24,3 @@ Identity Provider List
 - [ ] Researcher from an AAF member organisation can log onto REMS via AAF AAI solution.
 - [ ] Researcher from an organisation not AAF member can log onto REMS via AAF AAI.
 - [ ] Admin can login to the AAF AAI admin portal and set up an OIDC client for REMS.
-- [ ] Admin can login to the AAF AAI admin portal and manage users connecting to the service.
