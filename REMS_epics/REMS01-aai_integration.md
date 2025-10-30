@@ -15,7 +15,9 @@
 ![AAF CILogon login page](../docs/REMS01-cilogon.png)
 AAF CILogon login page
 
-![Identity Provider List](../docs/REMS01-idp-selection.png)
+<img src='../docs/REMS01-idp-selection.png' alt='Identity Provider List' width='300'>
+
+Identity Provider List
 
 ## Acceptance Criteria
 
