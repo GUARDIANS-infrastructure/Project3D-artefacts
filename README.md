@@ -41,6 +41,7 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 ### Elsa
 
 - [ELSA Epic 01: ELSA / REMS integration automated configuration](/ELSA_epics/ELSA01-rems_integration.md)
+- [ELSA Epic 02: AAI solution integration](/ELSA_epics/ELSA02-aai_integration.md)
 
 ### RDDP
 
