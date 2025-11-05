@@ -12,7 +12,7 @@
 ## Context
 
 - Data steward is invited to ELSA by the sys admin.
-- Researcher is invited to ELSA by teh sys admin.
+- Researcher is invited to ELSA by the sys admin.
 
 ## Acceptance Criteria
 
