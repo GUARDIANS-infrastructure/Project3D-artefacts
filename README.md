@@ -36,11 +36,12 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 ### REMS
 
-[TBC]
+- [REMS Epic 01: AAI solution integration](/REMS_epics/REMS01-aai_integration.md)
 
 ### Elsa
 
 - [ELSA Epic 01: ELSA / REMS integration automated configuration](/ELSA_epics/ELSA01-rems_integration.md)
+- [ELSA Epic 02: AAI solution integration](/ELSA_epics/ELSA02-aai_integration.md)
 - [ELSA Epic 03: NCI Data Exchange of Full Dataset](/ELSA_epics/ELSA03-nci_data_exchange_full_dataset.md)
 
 ### RDDP
