@@ -6,7 +6,7 @@
 
 ## User Story
 
-- As a study admin, I want to login to CTRL admin portal using my institutional affiliation so that I can manage study securely.
+- As a study admin, I want to login to CTRL admin portal using my institutional credentials, so that I can manage study securely.
 
 ## Context
 
@@ -15,10 +15,8 @@
 
 ## Acceptance Criteria
 
-- Study admin can login to CTRL admin portal.
-- Study admin use their institutional email to login.
-- Institution of the study admin is member of AAF.
-- Study admin use Multi Factor Authentication (MFA) to login.
-- CTRL login request include Authentication Context Class Reference (`arc_value`) of AAL2 (`http://idmanagement.gov/ns/assurance/aal/2`), standard NIST identifier which requires MFA, as mandatory (`essential:true`).
-- AAI login response specify the Authentication Methods Reference (`amr`) used.
-- `amr` acceptable by Garvan [to be determined].
+- [ ] Study admin from an AAF member organisation can login to CTRL admin portal.
+- [ ] Study admin use Multi Factor Authentication (MFA) to login.
+- [ ] CTRL login request include Authentication Context Class Reference (`arc_value`) of AAL2 (`http://idmanagement.gov/ns/assurance/aal/2`), standard NIST identifier which requires MFA, as mandatory (`essential:true`).
+- [ ] AAI login response specify the Authentication Methods Reference (`amr`) used.
+- [ ] `amr` acceptable by Garvan [to be determined].
