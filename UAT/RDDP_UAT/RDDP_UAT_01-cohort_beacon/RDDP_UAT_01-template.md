@@ -42,4 +42,4 @@
 
 ## Test logs
 
-> Provide additional details if needed
+> Provide additional details, comments or suggestions if needed

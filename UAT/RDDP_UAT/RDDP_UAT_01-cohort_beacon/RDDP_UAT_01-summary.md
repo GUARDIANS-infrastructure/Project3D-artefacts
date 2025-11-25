@@ -4,7 +4,7 @@
 
 ## Summary of Results
 
-> ✅ PASS / ⚠️ PARTIAL / ❌ FAIL
+> ✅ PASS / ⚠️ PARTIAL / ❌ FAIL / Ⓧ N.A.
 
 | User | Role | TC-01 | TC-02 | TC-03 | TC-04 | TC-05 | TC-06 | TC-07 | TC-08 | TC-09 | Overall Status |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---           |
