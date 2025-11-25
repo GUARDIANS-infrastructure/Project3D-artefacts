@@ -55,6 +55,6 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 ### RDDP UAT
 
-- [RDDP UAT 01: Cohort-level beacon on RDDP datasets](/UAT/RDDP_UAT/RDDP_UAT_01-cohort_beacon/)
+- [RDDP UAT 01: Cohort-level beacon on RDDP datasets](/UAT/RDDP_UAT/RDDP_UAT_01-cohort_beacon/RDDP_UAT_01-summary.md)
 
 ### REMS UAT

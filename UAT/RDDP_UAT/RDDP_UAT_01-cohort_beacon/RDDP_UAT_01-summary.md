@@ -12,4 +12,6 @@
 
 ## Key Findings & Blocker Notes
 
+### Comments
+
 1. Beacon response display `apiVersion` that is the version of the beacon specification followed, and `version` that is the current version of the beacon node. That is confusing for the user.
