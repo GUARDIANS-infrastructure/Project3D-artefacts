@@ -8,9 +8,8 @@
 
 | User | Role | TC-01 | TC-02 | TC-03 | TC-04 | TC-05 | TC-06 | TC-07 | TC-08 | TC-09 | Overall Status |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---           |
-| **Dr. Smith** | Biologist | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️(1) | ❌ | **FAIL** |
-| **Dr. Weson** | Informatician | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **PASS** |
+| **Maxime HEBRARD** | Researcher | ✅ | ✅ | ✅(1) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **PASS** |
 
 ## Key Findings & Blocker Notes
 
-1. Can see the cohort names but there is an issue
+1. Beacon response display `apiVersion` that is the version of the beacon specification followed, and `version` that is the current version of the beacon node. That is confusing for the user.

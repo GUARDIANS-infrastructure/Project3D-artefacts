@@ -1,6 +1,6 @@
 # UAT Report: RDDP UAT 01: Cohort-level beacon on RDDP datasets
 
-**Tester:** Name, [email], Role
+**Tester:** Name, Role
 
 **Date:** YYYY-MM-DD
 
@@ -10,7 +10,7 @@
 
 ## Task list
 
-> Follow instructions, assign a status (PASS, PARTIAL, FAIL), add comment when appropriate
+> Follow instructions, assign a status (PASS, PARTIAL, FAIL, NA), add comment when appropriate
 
 - **TS-01:** Access the beacon API at [https://dev.beacon.dsp.garvan.org.au/api/info](https://dev.beacon.dsp.garvan.org.au/api/info)
   - Status:
