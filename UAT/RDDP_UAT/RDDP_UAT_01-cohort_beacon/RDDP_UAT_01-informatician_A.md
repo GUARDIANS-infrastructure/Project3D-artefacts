@@ -1,10 +1,10 @@
 # UAT Report: RDDP UAT 01: Cohort-level beacon on RDDP datasets
 
-**Tester:** Maxime HEBRARD, Team Lead
+**Tester:** Informatician A
 
-**Date:** 2025-11-26
+**Date:** 2025-11-27
 
-**Environment:** test
+**Environment:** prod
 
 **Version:** v2.0-478214b
 
@@ -12,7 +12,7 @@
 
 > Follow instructions, assign a status (PASS, PARTIAL, FAIL, NA), add comment when appropriate
 
-- **TS-01:** Access the beacon API at [https://dev.beacon.dsp.garvan.org.au/api/info](https://dev.beacon.dsp.garvan.org.au/api/info)
+- **TS-01:** Access the beacon API at [https://beacon.dsp.garvan.org.au/api/info](https://beacon.dsp.garvan.org.au/api/info)
   - Status: PASS
   - Comment: Access API endpoint using Chrome web browser
 - **TC-02:** Record `environment`
@@ -27,7 +27,7 @@
 - **TC-05:** Inspect contact URL
   - Status: PASS
   - Comment: cardinal @ CPG
-- **TC-06:** Access cohorts endpoint at [https://dev.beacon.dsp.garvan.org.au/api/cohorts](https://dev.beacon.dsp.garvan.org.au/api/cohorts)
+- **TC-06:** Access cohorts endpoint at [https://beacon.dsp.garvan.org.au/api/cohorts](https://beacon.dsp.garvan.org.au/api/cohorts)
   - Status: PASS
   - Comment: Access API endpoint using Chrome web browser
 - **TC-07:** Inspect number of cohorts
@@ -44,4 +44,6 @@
 
 > Provide additional details, comments or suggestions if needed
 
-Beacon response display `apiVersion` that is the version of the beacon specification followed, and `version` that is the current version of the beacon node. That is confusing for the user.
+- Beacon response display `apiVersion` that is the version of the beacon specification followed, and `version` that is the current version of the beacon node. That is confusing for the user.
+
+- The field `response.organization.name` is currently "Garvan Institute for Medical Research" while ut should be "Garvan Institute **of** Medical Research" (note that the description is correct). Issue reported [#4](https://github.com/Garvan-Data-Science-Platform/beacon2-pi-api/issues/4)

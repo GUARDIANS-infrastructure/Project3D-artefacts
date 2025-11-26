@@ -1,18 +1,20 @@
 # UAT Report: RDDP UAT 01: Cohort-level beacon on RDDP datasets
 
-**Tester:** Name, Role
+> Name and email will be recorded in a separate document
+
+**Tester:** Role (Name, email)
 
 **Date:** YYYY-MM-DD
 
-**Environment:** test
+**Environment:** ...
 
-**Version:** v2.0-478214b
+**Version:** ...
 
 ## Task list
 
 > Follow instructions, assign a status (PASS, PARTIAL, FAIL, NA), add comment when appropriate
 
-- **TS-01:** Access the beacon API at [https://dev.beacon.dsp.garvan.org.au/api/info](https://dev.beacon.dsp.garvan.org.au/api/info)
+- **TS-01:** Access the beacon API at [https://beacon.dsp.garvan.org.au/api/info](https://beacon.dsp.garvan.org.au/api/info)
   - Status:
   - Comment:
 - **TC-02:** Record `environment`
@@ -27,7 +29,7 @@
 - **TC-05:** Inspect contact URL
   - Status:
   - Comment:
-- **TC-06:** Access cohorts endpoint at [https://dev.beacon.dsp.garvan.org.au/api/cohorts](https://dev.beacon.dsp.garvan.org.au/api/cohorts)
+- **TC-06:** Access cohorts endpoint at [https://beacon.dsp.garvan.org.au/api/cohorts](https://beacon.dsp.garvan.org.au/api/cohorts)
   - Status:
   - Comment:
 - **TC-07:** Inspect number of cohorts
