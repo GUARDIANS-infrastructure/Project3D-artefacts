@@ -46,4 +46,4 @@
 
 - Beacon response display `apiVersion` that is the version of the beacon specification followed, and `version` that is the current version of the beacon node. That is confusing for the user.
 
-- The field `response.organization.name` is currently "Garvan Institute for Medical Research" while ut should be "Garvan Institute **of** Medical Research" (note that the description is correct). Issue reported [#4](https://github.com/Garvan-Data-Science-Platform/beacon2-pi-api/issues/4)
+- The field `response.organization.name` is currently "Garvan Institute for Medical Research" while it should be "Garvan Institute **of** Medical Research" (note that the description is correct). Issue reported [#4](https://github.com/Garvan-Data-Science-Platform/beacon2-pi-api/issues/4)
