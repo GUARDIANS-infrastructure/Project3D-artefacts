@@ -34,10 +34,6 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 - [CTRL Epic 07: AAI solution integration for CTRL admin (AAF member)](./CTRL_epics/CTRL07-aai_integration_member.md)
 - [CTRL Epic 08: AAI solution integration for CTRL admin (non-AAF member)](./CTRL_epics/CTRL07-aai_integration_non_member.md)
 
-### REMS
-
-- [REMS Epic 01: AAI solution integration](/REMS_epics/REMS01-aai_integration.md)
-
 ### Elsa
 
 - [ELSA Epic 01: ELSA / REMS integration automated configuration](/ELSA_epics/ELSA01-rems_integration.md)
@@ -46,3 +42,19 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 ### RDDP
 
 - [RDDP Epic 01: Cohort-level beacon on RDDP datasets](/RDDP_epics/RDDP01-cohort_beacon.md)
+
+### REMS
+
+- [REMS Epic 01: AAI solution integration](/REMS_epics/REMS01-aai_integration.md)
+
+## User Acceptance Test
+
+### CTRL UAT
+
+### Elsa UAT
+
+### RDDP UAT
+
+- [RDDP UAT 01: Cohort-level beacon on RDDP datasets](/UAT/RDDP_UAT/RDDP_UAT_01-cohort_beacon/RDDP_UAT_01-summary.md)
+
+### REMS UAT
