@@ -38,6 +38,10 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 - [ELSA Epic 01: ELSA / REMS integration automated configuration](/ELSA_epics/ELSA01-rems_integration.md)
 - [ELSA Epic 02: AAI solution integration](/ELSA_epics/ELSA02-aai_integration.md)
+- [ELSA Epic 03: NCI Data Exchange of Full Dataset](/ELSA_epics/ELSA03-nci_data_exchange_full_dataset.md)
+- [ELSA Epic 04: NCI Data Exchange of Predefined Subset](/ELSA_epics/ELSA04-nci_data_exchange_predefined_subset.md)
+- [ELSA Epic 05: NCI Data Exchange of Sample Level Custom Subset](/ELSA_epics/ELSA05-nci_data_exchange_sample_subset.md)
+- [ELSA Epic 06: NCI Data Exchange of File Level Custom Subset](/ELSA_epics/ELSA06-nci_data_exchange_file_subset.md)
 
 ### RDDP
 
