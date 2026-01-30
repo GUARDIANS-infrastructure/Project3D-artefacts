@@ -22,5 +22,5 @@
 2. [solved] The field `response.organization.name` is currently "Garvan Institute for Medical Research" while it should be "Garvan Institute **of** Medical Research" (note that the description is correct). Issue reported [#4](https://github.com/Garvan-Data-Science-Platform/beacon2-pi-api/issues/4)
 3. Suggest updating the display name from RDPP to CaRDinal. "name": "RDDP cohort-level beacon" to "name": "CaRDinal cohort-level beacon". Suggestion reported [#5](https://github.com/Garvan-Data-Science-Platform/beacon2-pi-api/issues/5)
 4. Noticed a few `\n` line breaks in the cohort description; removing them would make it read more smoothly. Suggestion reported [#6](https://github.com/Garvan-Data-Science-Platform/beacon2-pi-api/issues/6)
-5. Is it possible to include the HPO codes in ‘distribution’ somehow? Or will these appear nicer on a UI platform for example?
-6. number of participants per cohort is found in both ‘cohortSize’ and ‘availabilityCount’. Unsure if ‘availabilityCount’ is different?
+5. Clarify whether and how HPO codes associated with each cohort could be represented in the `distribution` field versus being surfaced only via a downstream UI.
+6. Clarify the intended semantic difference between `cohortSize` and `availabilityCount` for the number of participants per cohort.
