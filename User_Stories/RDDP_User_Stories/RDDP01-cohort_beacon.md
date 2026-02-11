@@ -1,4 +1,4 @@
-# RDDP Epic 01: Cohort-level beacon on RDDP datasets
+# RDDP Story 01: Cohort-level beacon on RDDP datasets
 
 ## Related GUARDIANS Task
 
@@ -21,7 +21,7 @@
 
 ## Context
 
-![beaconv2_diagram](../docs/RDDP01-beaconv2_diagram.png)
+![beaconv2_diagram](../../docs/RDDP01-beaconv2_diagram.png)
 
 Beacon v2 API illustration. Note: the query on the left-side of the diagram is for
 genome variant information, rather than cohort-level information. The RDDP beacon

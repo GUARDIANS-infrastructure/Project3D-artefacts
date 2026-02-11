@@ -1,4 +1,4 @@
-# ELSA Epic 04: NCI Data Exchange of Predefined Subset
+# ELSA Story 05: NCI Data Exchange of Sample Level Custom Subset
 
 ## Related GUARDIANS Task
 
@@ -6,7 +6,7 @@
 
 ## User Story
 
-As a data steward, I want to share a predefined subset of a dataset stored on NCI with an authorised researcher, so that they can download data onto their authorized storage.
+As a data steward, I want to share a custom subset of a dataset stored on NCI with an authorised researcher, so that they can download data onto their authorized storage.
 
 ## Context
 
@@ -14,17 +14,17 @@ As a data steward, I want to share a predefined subset of a dataset stored on NC
 - Data access request has been approved by the data access committee (through REMS)
 - Dataset is stored on NCI
 - Dataset is registred in Elsa data
-- Dataset is organised as pre-defined subset
-- Target subset is specified in the data access request.
-  - Example: MGRB dataset: ASPREE vs 45andUp
-  - Example: MGRB dataset: ASPREE for commercial use vs ASPREE for non-commercial use
+- Custom subset is derived from data access request and sample information
+- Custom subset granularity is done at a sample level
+  - Example: MGRB dataset: Female above 45 years old
+  - Example: MGRB dataset: European ancestry with blood glucose measurement
 
 ## Acceptance Criteria
 
 - [ ] The researcher can be identified across REMS, Elsa and NCI, confirming it is the same individual.
 - [ ] If the researcher is authorized to download the subset directly:
-  - [ ] the data steward can programmatically grant the researcher access to the target subset stored on NCI using Elsa.
+  - [ ] the data steward can programmatically grant the researcher access to the custom subset stored on NCI using Elsa.
   - [ ] the researcher can then read and/or download the data.
 - [ ] If the researcher is authorized to transfer the data in a dedicated storage only:
-  - [ ] the data steward can programmatically initiate the transfer of the target subset stored on NCI using Elsa to the dedicated storage.
+  - [ ] the data steward can programmatically initiate the transfer of the custom subset stored on NCI using Elsa to the dedicated storage.
   - [ ] the researcher can then read the data from the dedicated storage.

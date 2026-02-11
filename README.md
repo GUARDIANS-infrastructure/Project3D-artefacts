@@ -21,35 +21,35 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 ![Project 3D modules](./docs/Project3D_modules.png)
 
-## Epics
+## User Stories
 
 ### CTRL
 
-- [CTRL Epic 01: Assign DUO Codes to Survey Questions](./CTRL_epics/CTRL01-duo_codes.md)
-- [CTRL Epic 02: Import Participant List from REDCap](./CTRL_epics/CTRL02-redcap_participants.md)
-- [CTRL Epic 03: Multiple Studies](./CTRL_epics/CTRL03-multi_study.md)
-- [CTRL Epic 04: API Endpoints for ELSA Integration](./CTRL_epics/CTRL04-elsa_integration.md)
-- [CTRL Epic 05: CTRL / ELSA Integration Automated Configuration](./CTRL_epics/CTRL05-ctrl_elsa_config.md)
-- [CTRL Epic 06: Study Admin Role](./CTRL_epics/CTRL06-study_admin.md)
-- [CTRL Epic 07: AAI solution integration for CTRL admin (AAF member)](./CTRL_epics/CTRL07-aai_integration_member.md)
-- [CTRL Epic 08: AAI solution integration for CTRL admin (non-AAF member)](./CTRL_epics/CTRL07-aai_integration_non_member.md)
+- [CTRL Story 01: Assign DUO Codes to Survey Questions](/User_Stories/CTRL_User_Stories/CTRL01-duo_codes.md)
+- [CTRL Story 02: Import Participant List from REDCap](/User_Stories/CTRL_User_Stories/CTRL02-redcap_participants.md)
+- [CTRL Story 03: Multiple Studies](/User_Stories/CTRL_User_Stories/CTRL03-multi_study.md)
+- [CTRL Story 04: API Endpoints for ELSA Integration](/User_Stories/CTRL_User_Stories/CTRL04-elsa_integration.md)
+- [CTRL Story 05: CTRL / ELSA Integration Automated Configuration](/User_Stories/CTRL_User_Stories/CTRL05-ctrl_elsa_config.md)
+- [CTRL Story 06: Study Admin Role](/User_Stories/CTRL_User_Stories/CTRL06-study_admin.md)
+- [CTRL Story 07: AAI solution integration for CTRL admin (AAF member)](/User_Stories/CTRL_User_Stories/CTRL07-aai_integration_member.md)
+- [CTRL Story 08: AAI solution integration for CTRL admin (non-AAF member)](/User_Stories/CTRL_User_Stories/CTRL07-aai_integration_non_member.md)
 
 ### Elsa
 
-- [ELSA Epic 01: ELSA / REMS integration automated configuration](/ELSA_epics/ELSA01-rems_integration.md)
-- [ELSA Epic 02: AAI solution integration](/ELSA_epics/ELSA02-aai_integration.md)
-- [ELSA Epic 03: NCI Data Exchange of Full Dataset](/ELSA_epics/ELSA03-nci_data_exchange_full_dataset.md)
-- [ELSA Epic 04: NCI Data Exchange of Predefined Subset](/ELSA_epics/ELSA04-nci_data_exchange_predefined_subset.md)
-- [ELSA Epic 05: NCI Data Exchange of Sample Level Custom Subset](/ELSA_epics/ELSA05-nci_data_exchange_sample_subset.md)
-- [ELSA Epic 06: NCI Data Exchange of File Level Custom Subset](/ELSA_epics/ELSA06-nci_data_exchange_file_subset.md)
+- [ELSA Story 01: ELSA / REMS integration automated configuration](/User_Stories/ELSA_User_Stories/ELSA01-rems_integration.md)
+- [ELSA Story 02: AAI solution integration](/User_Stories/ELSA_User_Stories/ELSA02-aai_integration.md)
+- [ELSA Story 03: NCI Data Exchange of Full Dataset](/User_Stories/ELSA_User_Stories/ELSA03-nci_data_exchange_full_dataset.md)
+- [ELSA Story 04: NCI Data Exchange of Predefined Subset](/User_Stories/ELSA_User_Stories/ELSA04-nci_data_exchange_predefined_subset.md)
+- [ELSA Story 05: NCI Data Exchange of Sample Level Custom Subset](/User_Stories/ELSA_User_Stories/ELSA05-nci_data_exchange_sample_subset.md)
+- [ELSA Story 06: NCI Data Exchange of File Level Custom Subset](/User_Stories/ELSA_User_Stories/ELSA06-nci_data_exchange_file_subset.md)
 
 ### RDDP
 
-- [RDDP Epic 01: Cohort-level beacon on RDDP datasets](/RDDP_epics/RDDP01-cohort_beacon.md)
+- [RDDP Story 01: Cohort-level beacon on RDDP datasets](/User_Stories/RDDP_User_Stories/RDDP01-cohort_beacon.md)
 
 ### REMS
 
-- [REMS Epic 01: AAI solution integration](/REMS_epics/REMS01-aai_integration.md)
+- [REMS Story 01: AAI solution integration](/User_Stories/REMS_User_Stories/REMS01-aai_integration.md)
 
 ## User Acceptance Test
 

@@ -1,4 +1,4 @@
-# CTRL Epic 04: API endpoints for ELSA integration
+# CTRL Story 04: API endpoints for ELSA integration
 
 ## Related GUARDIANS Task
 

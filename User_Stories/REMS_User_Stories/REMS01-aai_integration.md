@@ -1,4 +1,4 @@
-# REMS Epic 01: AAI solution integration
+# REMS Story 01: AAI solution integration
 
 ## Related GUARDIANS Task
 
@@ -12,10 +12,10 @@
 
 ## Context
 
-![AAF CILogon login page](../docs/REMS01-cilogon.png)
+![AAF CILogon login page](../../docs/REMS01-cilogon.png)
 AAF CILogon login page
 
-<img src='../docs/REMS01-idp-selection.png' alt='Identity Provider List' width='300'>
+<img src='../../docs/REMS01-idp-selection.png' alt='Identity Provider List' width='300'>
 
 Identity Provider List
 

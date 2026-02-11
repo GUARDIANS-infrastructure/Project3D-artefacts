@@ -1,4 +1,4 @@
-# CTRL Epic 05: CTRL / ELSA integration automated configuration
+# CTRL Story 05: CTRL / ELSA integration automated configuration
 
 ## Related GUARDIANS Task
 
@@ -10,7 +10,7 @@ As a sys admin, I want to deploy CTRL and ELSA using infrastructure as a code, s
 
 ## Context
 
-![Elsa context diagram](../docs/CTRL04-elsa_context_diagram.svg)
+![Elsa context diagram](../../docs/CTRL04-elsa_context_diagram.svg)
 source: [Elsa](https://github.com/elsa-data/elsa-data/blob/dev/docs/architecture/context.drawio.svg)
 
 ## Acceptance Criteria

@@ -1,4 +1,4 @@
-# ELSA Epic 02: AAI solution integration
+# ELSA Story 02: AAI solution integration
 
 ## Related GUARDIANS Task
 

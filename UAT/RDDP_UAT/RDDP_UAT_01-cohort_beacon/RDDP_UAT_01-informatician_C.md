@@ -17,28 +17,28 @@
 - **TS-01:** Access the beacon API at [https://beacon.dsp.garvan.org.au/api/info](https://beacon.dsp.garvan.org.au/api/info)
   - Status: PASS
   - Comment: using Chrome
-- **TC-02:** Record `environment`
+- **TS-02:** Record `environment`
   - Status: PASS
   - Comment: found at "environment"
-- **TC-03:** Record `version`
+- **TS-03:** Record `version`
   - Status: PASS
   - Comment: found at "apiVersion"
-- **TC-04:** Inspect organisation
+- **TS-04:** Inspect organisation
   - Status: PASS
   - Comment: "id": "Garvan", "name": "Garvan Institute of Medical Research"  
-- **TC-05:** Inspect contact URL
+- **TS-05:** Inspect contact URL
   - Status: PASS
   - Comment: "contactUrl": "mailto:cardinal@populationgenomics.org.au"
-- **TC-06:** Access cohorts endpoint at [https://beacon.dsp.garvan.org.au/api/cohorts](https://beacon.dsp.garvan.org.au/api/cohorts)
+- **TS-06:** Access cohorts endpoint at [https://beacon.dsp.garvan.org.au/api/cohorts](https://beacon.dsp.garvan.org.au/api/cohorts)
   - Status: PASS
   - Comment: using Chrome
-- **TC-07:** Inspect number of cohorts
+- **TS-07:** Inspect number of cohorts
   - Status: PASS
   - Comment: found at "numTotalResults": 8
-- **TC-08:** Inspect cohorts' names
+- **TS-08:** Inspect cohorts' names
   - Status: PASS
   - Comment: found at “name"
-- **TC-09:** Inspect number of participants per cohort
+- **TS-09:** Inspect number of participants per cohort
   - Status: PASS
   - Comment: found at "cohortSize"
 
