@@ -6,7 +6,7 @@
 
 > ✅ PASS / ⚠️ PARTIAL / ❌ FAIL / Ⓧ N.A.
 
-| Role | TC-01 | TC-02 | TC-03 | TC-04 | TC-05 | TC-06 | TC-07 | TC-08 | TC-09 | Overall Status |
+| Role | TS-01 | TS-02 | TS-03 | TS-04 | TS-05 | TS-06 | TS-07 | TS-08 | TS-09 | Overall Status |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | Informatician A | ✅ | ✅ | ✅(1) | ✅(2) | ✅ | ✅ | ✅ | ✅ | ✅ | **PASS** |
 | Informatician B | ✅ | ✅ | ✅ | ✅ | ✅(3) | ✅ | ✅ | ✅ | ✅ | **PASS** |

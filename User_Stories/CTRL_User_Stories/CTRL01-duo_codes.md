@@ -1,4 +1,4 @@
-# CTRL Epic 01: Assign DUO Codes to Survey Questions
+# CTRL Story 01: Assign DUO Codes to Survey Questions
 
 ## Related GUARDIANS Task
 

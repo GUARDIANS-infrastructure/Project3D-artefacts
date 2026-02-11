@@ -1,4 +1,4 @@
-# CTRL Epic 02: Import Participant List from REDCap
+# CTRL Story 02: Import Participant List from REDCap
 
 ## Related GUARDIANS Task
 
@@ -10,7 +10,7 @@ As a study admin, I want to import participants from an instance of REDCap, so t
 
 ## Context
 
-![CTRL02-API_diagram.png](../docs/CTRL02-API_diagram.png)
+![CTRL02-API_diagram.png](../../docs/CTRL02-API_diagram.png)
 
 ## Acceptance Criteria
 

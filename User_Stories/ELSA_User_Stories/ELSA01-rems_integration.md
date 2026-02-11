@@ -1,4 +1,4 @@
-# ELSA Epic 01: ELSA / REMS integration automated configuration
+# ELSA Story 01: ELSA / REMS integration automated configuration
 
 ## Related GUARDIANS Task
 

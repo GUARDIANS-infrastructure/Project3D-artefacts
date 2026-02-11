@@ -1,4 +1,4 @@
-# CTRL Epic 08: AAI solution integration for CTRL admin (non-AAF member)
+# CTRL Story 07: AAI solution integration for CTRL admin (AAF member)
 
 ## Related GUARDIANS Task
 
@@ -15,7 +15,7 @@
 
 ## Acceptance Criteria
 
-- [ ] Study admin from an organisation not AAF member can login to CTRL admin portal.
+- [ ] Study admin from an AAF member organisation can login to CTRL admin portal.
 - [ ] Study admin use Multi Factor Authentication (MFA) to login.
 - [ ] CTRL login request include Authentication Context Class Reference (`arc_value`) of AAL2 (`http://idmanagement.gov/ns/assurance/aal/2`), standard NIST identifier which requires MFA, as mandatory (`essential:true`).
 - [ ] AAI login response specify the Authentication Methods Reference (`amr`) used.

@@ -1,4 +1,4 @@
-# ELSA Epic 05: NCI Data Exchange of Sample Level Custom Subset
+# ELSA Story 06: NCI Data Exchange of File Level Custom Subset
 
 ## Related GUARDIANS Task
 
@@ -15,9 +15,9 @@ As a data steward, I want to share a custom subset of a dataset stored on NCI wi
 - Dataset is stored on NCI
 - Dataset is registred in Elsa data
 - Custom subset is derived from data access request and sample information
-- Custom subset granularity is done at a sample level
-  - Example: MGRB dataset: Female above 45 years old
-  - Example: MGRB dataset: European ancestry with blood glucose measurement
+- Custom subset granularity is done at a sample level and file level
+  - Example: MGRB dataset: VCF of Female above 45 years old
+  - Example: MGRB dataset: CRAM of European ancestry with blood glucose measurement
 
 ## Acceptance Criteria
 

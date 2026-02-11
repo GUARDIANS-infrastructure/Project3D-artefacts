@@ -1,4 +1,4 @@
-# CTRL Epic 03: Multiple Studies
+# CTRL Story 03: Multiple Studies
 
 ## Related GUARDIANS Task
 
@@ -11,7 +11,7 @@ As a participant, I want to review the different studies I am participating to, 
 
 ## Context
 
-![CTRL02-API_diagram.png](../docs/CTRL03-table_diagram.png)
+![CTRL02-API_diagram.png](../../docs/CTRL03-table_diagram.png)
 
 ## Acceptance Criteria
 
