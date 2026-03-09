@@ -1,4 +1,4 @@
-# UAT Report: RDDP UAT 01: Cohort-level beacon on RDDP datasets
+# UAT Report: REMS UAT 01: AAF / AAI solution
 
 > Name and email will be recorded in a separate document
 
