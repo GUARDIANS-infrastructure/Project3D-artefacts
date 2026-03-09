@@ -1,6 +1,6 @@
 # RDDP UAT 01: Cohort-level beacon on RDDP datasets
 
-**Epic:** [RDDP Epic 01: Cohort-level beacon on RDDP datasets](/RDDP_epics/RDDP01-cohort_beacon.md)
+**User Story:** [RDDP Story 01: Cohort-level beacon on RDDP datasets](/User_Stories/RDDP_User_Stories/RDDP01-cohort_beacon.md)
 
 ## Summary of Results
 
