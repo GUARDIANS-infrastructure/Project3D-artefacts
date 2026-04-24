@@ -55,6 +55,8 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 ### CTRL UAT
 
+- [CTRL UAT 02: AAF / AAI solution](/UAT/CTRL_UAT/CTRL_UAT_02-AAF/CTRL_UAT_02-summary.md)
+
 ### Elsa UAT
 
 ### RDDP UAT
