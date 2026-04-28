@@ -14,7 +14,7 @@
 
 ### Comments
 
-1. It is a reset password email, that is odd in the context of a invitation. Issue reported [#]()
+1. [solved] It is a reset password email, that is odd in the context of a invitation. Issue reported [#694](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/694)
 2. [solved] The invitation email redirect to the participant portal instead of the admin portal. Issue reported [#695](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/695)
 3. Adelaide University is an AAF member
 4. Adelaide University enfore MFA via authenticator app
