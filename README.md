@@ -55,6 +55,8 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 ### CTRL UAT
 
+- [CTRL UAT 01: Researcher onboarding](/UAT/CTRL_UAT/CTRL_UAT_01-onboarding/)
+
 ### Elsa UAT
 
 ### RDDP UAT
