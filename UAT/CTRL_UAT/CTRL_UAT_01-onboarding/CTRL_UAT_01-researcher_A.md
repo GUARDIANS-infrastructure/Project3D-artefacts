@@ -112,26 +112,34 @@ UA-6: When creating a multi choice questions, The UI of the choices is inconsist
 > See [#836](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/836)
 
 UA-7: A multi-choice question should be able to set as mandatory question too. If the user did not review the question, nothing is ticked. The participant is forced to choose one choice before submitting the survey.
+> See [#837](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/837)
 
-UA-8: It would be nie to have a pre-filed list of state or country... In the context of question like "where do you leave". Could we use an ontology ?
+UA-8: It would be nice to have a pre-filed list of state or country... In the context of question like "where do you leave". Could we use an ontology ?
+> See [#838](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/838)
 
 UA-9: Current multi-choice question is radio button type (only one choice ticked). There should be a multi-choice option checkbox type (multiple choices ticked).
+> See [#839](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/839)
 
 UA-10: Need to add a free text entry for the responses. Example of gender question: he/she or specify "?" with option for validation rules (email, phone number, date, member card...)
+> See [#840](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/840)
 
 UA-11: For multi-choice question with only one answer allowed, depending of the number of choices, suggest to use dropdown
+> See [#841](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/841)
 
-UA-12: Expression of interest to have a platform that can manage participant survey. i.e. recontacting the participant & asking a set of questions that are not consent but questionaire. Considering building the survey in CTRL, or building the survey in REDCap but would be nice to have a notification of questionaire status within CTRL, and delegate participant management to CTRL (emails, follow up, dashboard...)
+UA-12: Expression of interest to have a platform that can manage participant survey. i.e. recontacting the participant & asking a set of questions that are not consent but questionnaire. i-Considering building the survey in CTRL and store the response in CTRL. ii-Considering building the survey in REDCap and store the responses in REDCap. iii-Considering embedded the questionnaire in CTRL but store the responses in REDCap. Either way it would be nice to have a notification of questionnaire status within CTRL, and delegate participant management to CTRL (emails, follow up, dashboard...).
+> See [#842](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/842)
 
-UA-13: It would be usefull for the admin to be avle to visualized the survey the way it appears to the participant
-(existing PR)
+UA-13: It would be usefull for the admin to be able to visualized the survey the way it appears to the participant
+> See [#665](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/665)
 
 UA-14: When editing a survey, there is no button to go back to the survey page, the only way out is through the menu. User expect a "back" button of some sort
+> See [#843](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/843)
 
 UA-15: It would be nice to be able to style the survey description, using markdown for example
+> See [#844](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/844)
 
 UA-15: It would be nice to be able to style the invite email, using markdown for example
+> See [#741](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/741)
 
 UA-16: Wish to export the list of participant invites
-
-[47min]
+> See [#845](https://github.com/Garvan-Data-Science-Platform/ctrl/issues/845)
