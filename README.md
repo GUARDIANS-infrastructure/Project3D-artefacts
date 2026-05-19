@@ -57,6 +57,7 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 
 - [CTRL UAT 01: Researcher onboarding](/UAT/CTRL_UAT/CTRL_UAT_01-onboarding/)
 - [CTRL UAT 02: AAF / AAI solution](/UAT/CTRL_UAT/CTRL_UAT_02-AAF/CTRL_UAT_02-summary.md)
+- [CTRL UAT 03: Audit Logs](/UAT/CTRL_UAT/CTRL_UAT_03-Audit/)
 
 ### Elsa UAT
 
