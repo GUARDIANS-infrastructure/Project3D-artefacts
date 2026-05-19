@@ -68,3 +68,4 @@ The goal of the flagship project is to deploy the different tools on Garvan infr
 ### REMS UAT
 
 - [REMS UAT 01: AAF / AAI solution](/UAT/REMS_UAT/REMS_UAT_01-AAF/REMS_UAT_01-summary.md)
+- [REMS UAT 02: Audit Logs](/UAT/REMS_UAT/REMS_UAT_02-Audit/)
